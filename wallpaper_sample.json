@@ -42,6 +42,15 @@
             },
             {
                 "name": "Emotions"
+            },
+            {
+                "name": "Text Art"
+            },
+            {
+                "name": "Water"
+            },
+            {
+                "name": "Planets"
             }
         ],
     
@@ -170,8 +179,8 @@
 				"author": "Deepak Yadav",
 				"url": "https://www.dl.dropboxusercontent.com/s/imllnhr874i8uxm/w%20%283%29.jpg",
 				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/lgbop396aznuql0/w%20%283%29%203.jpg",
-				"name": "Abstract 18",
-                "category": "abstract"
+				"name": "Emotions 9",
+                "category": "emotions"
 			},
             {
 				"author": "Deepak Yadav",
@@ -793,91 +802,91 @@
 				"author": "Deepak Yadav",
 				"url": "https://www.dl.dropboxusercontent.com/s/c4sg6r1wjfwh3qy/nature%20%281%29.jpeg",
 				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/ielbmphpmtbe4fc/nature%20%281%29t.jpeg",
-				"name": "Nature 1",
-                "category": "nature"
+				"name": "Water 1",
+                "category": "water"
 			},
             {
 				"author": "Deepak Yadav",
 				"url": "https://www.dl.dropboxusercontent.com/s/dd6a7p8rubjmb3h/nature%20%281%29.jpg",
 				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/t03j8oev29xe29f/nature%20%281%29t.jpg",
-				"name": "Nature 2",
+				"name": "Nature 1",
                 "category": "nature"
 			},
             {
 				"author": "Deepak Yadav",
 				"url": "https://www.dl.dropboxusercontent.com/s/dk5vlzwgdw0pmsk/nature%20%281%29.png",
 				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/wfaskdfeyzv62yk/nature%20%281%29t.png",
-				"name": "Nature 3",
+				"name": "Nature 2",
                 "category": "nature"
 			},
             {
 				"author": "Deepak Yadav",
 				"url": "https://www.dl.dropboxusercontent.com/s/867ddc2hi1g6u5t/nature%20%282%29.jpeg",
 				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/cu6xm8scushl6gu/nature%20%282%29t.jpeg",
-				"name": "Nature 4",
-                "category": "nature"
+				"name": "Water 2",
+                "category": "water"
 			},
             {
 				"author": "Deepak Yadav",
 				"url": "https://www.dl.dropboxusercontent.com/s/chlgx35485x39mq/nature%20%282%29.jpg",
 				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/yq936t54zhz67ey/nature%20%282%29g.jpg",
-				"name": "Nature 5",
+				"name": "Nature 3",
                 "category": "nature"
 			},
             {
 				"author": "Deepak Yadav",
 				"url": "https://www.dl.dropboxusercontent.com/s/wy2pm75vd8tgtk7/nature%20%282%29.png",
 				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/2qlbbofdz4lbyrk/nature%20%282%29f.png",
-				"name": "Nature 6",
+				"name": "Nature 4",
                 "category": "nature"
 			},
             {
 				"author": "Deepak Yadav",
 				"url": "https://www.dl.dropboxusercontent.com/s/poghuqpqqmzqwlm/nature%20%283%29.jpeg",
 				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/btv2wo814igba1q/nature%20%283%29tt.jpeg",
-				"name": "Nature 7",
+				"name": "Nature 5",
                 "category": "nature"
 			},
             {
 				"author": "Deepak Yadav",
 				"url": "https://www.dl.dropboxusercontent.com/s/9etghc7r9a7din1/nature%20%283%29.jpg",
 				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/yrnsml19ro7ibmq/nature%20%283%29ttt.jpg",
-				"name": "Nature 8",
-                "category": "nature"
+				"name": "Water 3",
+                "category": "water"
 			},
             {
 				"author": "Deepak Yadav",
 				"url": "https://www.dl.dropboxusercontent.com/s/3z5czopncp7axvu/nature%20%284%29.jpg",
 				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/7woydfvhoczpeib/nature%20%284%29g.jpg",
-				"name": "Nature 9",
-                "category": "nature"
+				"name": "Abstract 18",
+                "category": "abstract"
 			},
             {
 				"author": "Deepak Yadav",
 				"url": "https://www.dl.dropboxusercontent.com/s/4szmwngh9yr5rvm/nature%20%285%29.jpg",
 				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/au7xnr0kcr7yf4w/nature%20%285%29t.jpg",
-				"name": "Nature 10",
+				"name": "Nature 6",
                 "category": "nature"
 			},
             {
 				"author": "Deepak Yadav",
 				"url": "https://www.dl.dropboxusercontent.com/s/24wkehgrikk6weq/nature%20%286%29.jpg",
 				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/tsm2x05b29kgwat/nature%20%286%29t.jpg",
-				"name": "Nature 11",
+				"name": "Nature 7",
                 "category": "nature"
 			},
             {
 				"author": "Deepak Yadav",
 				"url": "https://www.dl.dropboxusercontent.com/s/o605bcs8ye8r5nf/nature%20%289%29.jpg",
 				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/09nps2snzhwywfc/nature%20%289%29t.jpg",
-				"name": "Nature 12",
+				"name": "Nature 8",
                 "category": "nature"
 			},
             {
 				"author": "Deepak Yadav",
 				"url": "https://www.dl.dropboxusercontent.com/s/v9c1eur5jfpbr0t/nature%20%2810%29.jpg",
 				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/y70jgbp36j6gvoq/nature%20%2810%29t.jpg",
-				"name": "Nature 13",
+				"name": "Nature 9",
                 "category": "nature"
 			},
             {
@@ -1227,15 +1236,15 @@
 				"author": "Deepak Yadav",
 				"url": "https://www.dl.dropboxusercontent.com/s/x2p0nj9vw3h7iq5/kit%20%2810%29.png",
 				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/s1v9t4c0npj7pcc/kit%20%2810%29t.png",
-				"name": "Nature 14",
-                "category": "nature"
+				"name": "Water 4",
+                "category": "water"
 			},
             {
 				"author": "Deepak Yadav",
 				"url": "https://www.dl.dropboxusercontent.com/s/yct63aipxptf4xl/kit%20%2812%29.png",
 				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/pph18blyeduhub8/kit%20%2812%29t.png",
-				"name": "Nature 15",
-                "category": "nature"
+				"name": "Water 5",
+                "category": "water"
 			},
             {
 				"author": "Deepak Yadav",
@@ -1383,6 +1392,111 @@
 				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/t6bo4h5ty13q4z7/luv%20%289%29t.jpeg",
 				"name": "Emotions 8",
                 "category": "emotions"
+			},
+            {
+				"author": "Deepak Yadav",
+				"url": "https://www.dl.dropboxusercontent.com/s/3f1w8zit1ylvmx0/P%20%281%29.jpeg",
+				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/55c3p9a233mjpky/P%20%281%29T.jpeg",
+				"name": "Water 6",
+                "category": "water"
+			},
+            {
+				"author": "Deepak Yadav",
+				"url": "https://www.dl.dropboxusercontent.com/s/9iv8hwfsxl2ugxf/P%20%281%29.jpg",
+				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/llbygiva3z2paxn/P%20%281%29T.jpg",
+				"name": "Water 7",
+                "category": "water"
+			},
+            {
+				"author": "Deepak Yadav",
+				"url": "https://www.dl.dropboxusercontent.com/s/n2ooie3y820xem7/P%20%281%29.png",
+				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/k1tupr0rhx7ihqu/P%20%281%29T.png",
+				"name": "Water 8",
+                "category": "water"
+			},
+            {
+				"author": "Deepak Yadav",
+				"url": "https://www.dl.dropboxusercontent.com/s/083rmj8iow09dts/P%20%282%29.jpeg",
+				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/ah7rdu8mtecnpou/P%20%282%29T.jpeg",
+				"name": "Water 9",
+                "category": "water"
+			},
+            {
+				"author": "Deepak Yadav",
+				"url": "https://www.dl.dropboxusercontent.com/s/3ep9kp6szun3ako/P%20%284%29.jpg",
+				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/ueytzssqg5solg7/P%20%284%29T.jpg",
+				"name": "Water 10",
+                "category": "water"
+			},
+            {
+				"author": "Deepak Yadav",
+				"url": "https://www.dl.dropboxusercontent.com/s/ivgyi2z1j4y6okt/P%20%282%29.jpg",
+				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/1lni1p0afkj4aqv/P%20%282%29T.jpg",
+				"name": "Vehicle 11",
+                "category": "vehicle"
+			},
+            {
+				"author": "Deepak Yadav",
+				"url": "https://www.dl.dropboxusercontent.com/s/mzuszdwpsfmv3m5/P%20%285%29.jpg",
+				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/v828gz1zpgut3as/P%20%285%29T.jpg",
+				"name": "Vehicle 12",
+                "category": "vehicle"
+			},
+            {
+				"author": "Deepak Yadav",
+				"url": "https://www.dl.dropboxusercontent.com/s/8wot90t4hag8bws/P%20%282%29.png",
+				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/rzgnkx65x9fwv14/P%20%282%29T.png",
+				"name": "Planet 1",
+                "category": "planets"
+			},
+            {
+				"author": "Deepak Yadav",
+				"url": "https://www.dl.dropboxusercontent.com/s/k0aw5hhde0cc3dm/P%20%283%29.jpg",
+				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/dbdeu7bnu7kw8cc/P%20%283%29T.jpg",
+				"name": "Planet 2",
+                "category": "planets"
+			},
+            {
+				"author": "Deepak Yadav",
+				"url": "https://www.dl.dropboxusercontent.com/s/tfeq85kmsbe92y5/P%20%287%29.jpg",
+				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/0lnfq7rh68dn2ta/P%20%287%29T.jpg",
+				"name": "Planet 3",
+                "category": "planets"
+			},
+            {
+				"author": "Deepak Yadav",
+				"url": "https://www.dl.dropboxusercontent.com/s/73uh9g4jwe1b6ws/P%20%286%29.jpg",
+				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/bokn4hdqxnd2to0/P%20%286%29T.jpg",
+				"name": "Abstract 25",
+                "category": "abstract"
+			},
+            {
+				"author": "Deepak Yadav",
+				"url": "https://www.dl.dropboxusercontent.com/s/7jwarumi58jph8g/P%20%284%29.png",
+				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/pu4772bzdnpz7ax/P%20%284%29T.png",
+				"name": "Text Art 1",
+                "category": "text art"
+			},
+            {
+				"author": "Deepak Yadav",
+				"url": "https://www.dl.dropboxusercontent.com/s/d8x0i3l3z9e1bug/P%20%288%29.jpg",
+				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/b7do5e45rns3iml/P%20%288%29T.jpg",
+				"name": "City 4",
+                "category": "city & architecture"
+			},
+            {
+				"author": "Deepak Yadav",
+				"url": "https://www.dl.dropboxusercontent.com/s/hml7wu3r09ddb1u/P%20%283%29.png",
+				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/ys49o7kqcawdp06/P%20%283%29t.png",
+				"name": "Girl 18",
+                "category": "girls"
+			},
+            {
+				"author": "Deepak Yadav",
+				"url": "https://www.dl.dropboxusercontent.com/s/wu95v3q64af31c0/P%20%285%29.png",
+				"thumbUrl": "https://www.dl.dropboxusercontent.com/s/ebwtoujng5g3qkk/P%20%285%29t.png",
+				"name": "Girl 19",
+                "category": "girls"
 			}
 		]
 }
